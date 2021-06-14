@@ -37,6 +37,7 @@ Input expected in CSV format.
 ###
 
 • makepymolscript-color-singlechain-by-2columntext-2021june09a.py
+
 Colors a single chain of a PDB file according to text input that gives [residue numbering, value] in two columns.
 
 Input expected is text file with two columns separated by a space.
@@ -44,7 +45,10 @@ Input expected is text file with two columns separated by a space.
 ###
 MISC
 ---
+• convert-rows-to-columns-2021mar13a.py
 
+text file manipulation
 
+###
 ---
 GDBowman
